@@ -1,0 +1,16 @@
+## Euclid's algorithm ##
+
+Main() {
+   IN a;
+   IN b;
+   LOOP (0 < b) {
+      c := b;
+      LOOP (b <= a) { $ Computation of modulo
+         a := a - b
+      }
+      b := a;
+      a := c;
+   }
+   
+   @a;
+}

@@ -1,0 +1,52 @@
+token: Main       	lexical unit: MAIN
+token: (          	lexical unit: LPAREN
+token: )          	lexical unit: RPAREN
+token: {          	lexical unit: LBRACK
+token: IN         	lexical unit: IN
+token: a          	lexical unit: VARNAME
+token: ;          	lexical unit: SEMI
+token: IN         	lexical unit: IN
+token: b          	lexical unit: VARNAME
+token: ;          	lexical unit: SEMI
+token: LOOP       	lexical unit: LOOP
+token: (          	lexical unit: LPAREN
+token: 0          	lexical unit: NUMBER
+token: <          	lexical unit: SMALLER
+token: b          	lexical unit: VARNAME
+token: )          	lexical unit: RPAREN
+token: {          	lexical unit: LBRACK
+token: c          	lexical unit: VARNAME
+token: :=         	lexical unit: ASSIGN
+token: b          	lexical unit: VARNAME
+token: ;          	lexical unit: SEMI
+token: LOOP       	lexical unit: LOOP
+token: (          	lexical unit: LPAREN
+token: b          	lexical unit: VARNAME
+token: <=         	lexical unit: SMALEQ
+token: a          	lexical unit: VARNAME
+token: )          	lexical unit: RPAREN
+token: {          	lexical unit: LBRACK
+token: a          	lexical unit: VARNAME
+token: :=         	lexical unit: ASSIGN
+token: a          	lexical unit: VARNAME
+token: -          	lexical unit: MINUS
+token: b          	lexical unit: VARNAME
+token: }          	lexical unit: RBRACK
+token: b          	lexical unit: VARNAME
+token: :=         	lexical unit: ASSIGN
+token: a          	lexical unit: VARNAME
+token: ;          	lexical unit: SEMI
+token: a          	lexical unit: VARNAME
+token: :=         	lexical unit: ASSIGN
+token: c          	lexical unit: VARNAME
+token: ;          	lexical unit: SEMI
+token: }          	lexical unit: RBRACK
+token: @          	lexical unit: AROBASE
+token: a          	lexical unit: VARNAME
+token: ;          	lexical unit: SEMI
+token: }          	lexical unit: RBRACK
+
+Variables
+a	4
+b	5
+c	7
