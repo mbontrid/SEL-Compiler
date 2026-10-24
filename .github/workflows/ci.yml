@@ -1,9 +1,9 @@
 
-# This workflow uses GitHub Actions to build and test the YaLCC project.
+# This workflow uses GitHub Actions to build and test the SELC project.
 # It sets up a Java environment, installs necessary dependencies, and runs the build and test commands.
 # It should cache the JUnit JAR and compiled classes to speed up subsequent runs.
 
-name: Build and Test YaLCC
+name: Build and Test SELC
 
 on:
   push:
