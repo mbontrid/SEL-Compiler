@@ -1,5 +1,7 @@
 # 🖋️ SEL Compiler
 
+[![Javadoc](https://img.shields.io/badge/JavaDoc-Online-green)](https://mbontrid.github.io/SEL-Compiler/javadoc/)
+
 **SEL Compiler** (Small Experimental Language compiler) This project is part of the **Language Theory course INFO—F403** at `ULB`. It implements the **lexical analysis** phase for a toy programming language called **SEL**, turning source code into a stream of tokens for later parsing.
 
 ## 📜 Description
